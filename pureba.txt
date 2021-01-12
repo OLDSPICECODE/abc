@@ -9,3 +9,4 @@ prueba 2
 rama create
 
 crear conflicto
+ creo otro conflicto 2
